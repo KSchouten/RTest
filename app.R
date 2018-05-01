@@ -6,7 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
-# Deploy
+# Deploy the app when ready
 
 library(shiny)
 
