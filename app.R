@@ -6,6 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
+# Deploy
 
 library(shiny)
 
@@ -13,7 +14,7 @@ library(shiny)
 ui <- fluidPage(
    
    # Application title
-   titlePanel("Old Faithful Geyser Data"),
+   titlePanel("Old Faithful Geyser Data with variable bins"),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
