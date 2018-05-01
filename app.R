@@ -6,7 +6,6 @@
 #
 #    http://shiny.rstudio.com/
 #
-# Deploy
 
 library(shiny)
 
